@@ -1,5 +1,5 @@
 # zebra-puzzle
-Use Prolog to solve the [*Zebra Puzzle*](https://en.wikipedia.org/wiki/Zebra_Puzzle), also known as the *Einstein's Puzzle*.
+Use Prolog to solve the [*Zebra Puzzle*](https://en.wikipedia.org/wiki/Zebra_Puzzle), a.k.a, the *Einstein's Puzzle*.
 
 Puzzle description (one variant): 
 >1. There are five houses.
