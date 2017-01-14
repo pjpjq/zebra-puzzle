@@ -1,4 +1,4 @@
-%% Constraints:
+%% Puzzle constraints:
 %% 1.	There are five houses.
 %% 2.	The English man lives in the red house.
 %% 3. 	The Swede has a dog.
